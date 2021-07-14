@@ -1,25 +1,9 @@
 
 ***
 
-# <projectName>
-
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
 ### Top
 
 # `README.md`
-
-***
-
-## Read this article in a different language
-
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 ***
 
@@ -27,192 +11,92 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+[01.0 - Index](#Index)
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+[02.0 - Description](#Reactop)
 
-> [00.3 - Index](#Index)
+[03.0 - About](#About)
 
-[01.0 - Description](#RepositoryName)
+[04.0 - Wiki](#Wiki)
 
-[02.0 - About](#About)
+[05.0 - Version history](#Version-history)
 
-[03.0 - Wiki](#Wiki)
+[06.0 - Contributers](#Contributers)
 
-[04.0 - Version history](#Version-history)
+[07.0 - Sources](#Sources)
 
-[05.0 - Software status](#Software-status)
+[08.0 - GitHub issues](#GitHub-issues)
 
-[06.0 - Sponsor info](#Sponsor-info)
+[09.0 - About README](#About-README)
 
-[07.0 - Contributers](#Contributers)
+[10.0 - README Version history](#README-Version-history)
 
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+[11.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
-# <repoName>
-<repo_description>
+# Reactop
+A old idea I had for a series of laptops that run ReactOS (an operating system that runs Windows programs natively, but isn't built on Windows code) I am unsure if I will continue this project.
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/Reactop/wiki/)
 
 ***
 
 ## Version history
 
-**Version history currently unavailable**
+1. [Version 0.01.1](https://github.com/seanpm2001/Reactop/releases/tag/V0.01.1) - 32 commits (Released: Friday, July 17th 2020 at 7:10 pm)
 
-**No other versions listed**
+2. [Version 0.01.2](https://github.com/seanpm2001/Reactop/releases/tag/V0.01.2) - 38 commits (Released: Friday, July 17th 2020 at 7:15 pm)
 
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+[More versions coming soon](https://github.com/seanpm2001/Reactop/releases)
 
 ***
 
 ## Contributers
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Currently, I am the only contributer. Contributions are welcome, as long as you follow the `CONTRIBUTING.md` file. More info below.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 39 commits (As of Friday, July 17th 2020 at 7:25 pm)
 
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
+> * 2. No other contributers allowed
 
 ***
 
 ## Contributing
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
+Please read the `CONTRIBUTING.md` file and obey its rules to commit here. [Here is the file if you couldn't find it](https://github.com/seanpm2001/Reactop/blob/master/CONTRIBUTING.md)
 
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+***
+
+## Sources
+
+You can read about ReactOS on Wikipedia. Search for it yourself, or [click here](https://en.wikipedia.org/wiki/ReactOS).
+
+You can help to contribute to the ReactOS project on GitHub. Search for it yourself, or [click here](https://github.com/reactos/reactos).
+
+Other sources currently aren't listed.
+
+***
+
+## GitHub issues
+
+These are the current major GitHub issues for this project.
+
+1. [Can't upload 4 files](https://github.com/seanpm2001/Reactop/issues/1)
+
+2. [Plan OneNote files missing](https://github.com/seanpm2001/Reactop/issues/2)
+
+3. No other GitHub issues listed
 
 ***
 
@@ -220,23 +104,23 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+File version: `2 (Friday, July 17th 2020 at 7:25 pm)`
 
-Line count: `0,296`
+Line count (including blank lines and compiler line): `0,178`
 
 ***
 
-## README version history
+## README Version history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+* Version 1  (Friday, July 17th 2020 at 7:07 pm)
 
 > Changes:
 
-> * Started the file
+> * Created the README.md file
 
 > * Added the title section
 
-> * Added the index
+> * Added the index section
 
 > * Added the about section
 
@@ -244,52 +128,50 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * Added the version history section
 
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
+> * Added the contributers section
 
 > * Added the contributing section
 
-> * Added the about README section
+> * Added the sources section
 
-> * Added the README version history section
+> * Added the About README section
 
-> * Added the resources section
+> * Added the README Version history section
 
-> * Added a software status section, with a DRM free sticker and message
+> * Added the footer
 
-> * Added the sponsor info section
+* Version 2 (Friday, July 17th 2020 at 7:25 pm)
 
-> * No other changes in version 0.1
+> Changes:
 
-Version 1 (Coming soon)
+> * Updated the index
+
+> * Updated the version history section
+
+> * Updated the contributers section
+
+> * Added the GitHub issues section
+
+> * Updated the file info section
+
+> * Updated the README History section
+
+* Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 1
-
-Version 2 (Coming soon)
+* Version 4 (Coming soon)
 
 > Changes:
 
 > * Coming soon
-
-> * No other changes in version 2
 
 ***
 
 ### You have reached the end of the README file
 
 [Back to top](#Top) [Exit](https://github.com)
-
-### EOF
 
 ***
